@@ -1,0 +1,11 @@
+yolov7/
+Raw Dataset.rar
+results/
+
+detection files/best.pt
+detection files/bestv2.pt
+detection files/bestv3.pt
+detection files/traced_model.pt
+
+detection files/runs
+detection files/Test Files
