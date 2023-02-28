@@ -2,8 +2,8 @@
 
 > This project is my internship project made for <b>EGEROBOT - isgsis</b>
 
-<p>Result Project</p>
-// <img src="static images/result.png" height="480">
+
+
 
 <details>
 <summary> Project Chart Diagram </summary>
