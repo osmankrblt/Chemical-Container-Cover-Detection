@@ -2,12 +2,6 @@
 
 > This project is my internship project made for <b>EGEROBOT - isgsis</b>
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> a3b6b4cfb0548495fc869fb5d79529882e3a36b0
-
 <details>
 <summary> Project Chart Diagram </summary>
    <br />
