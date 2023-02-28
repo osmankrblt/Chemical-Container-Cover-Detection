@@ -17,12 +17,6 @@
 > I created this function for object to mark. (If would like to use this function.You must paste into the plots.py and you must change plot_one_box func with plot_one_marker in detect.py)
 
 
-<details>
-<summary> Function Result Image </summary>
-  
-
-<img src="static images/myFuncResult.jpg">
-</details>
 
     def plot_one_marker(x, img,color=None, label=None, line_thickness=3):
         # Plots one bounding marker on image img
