@@ -1,6 +1,8 @@
 yolov7/
 Raw Dataset.rar
 results/
+.ipynb_checkpoints/
+static images/
 
 detection files/best.pt
 detection files/bestv2.pt
