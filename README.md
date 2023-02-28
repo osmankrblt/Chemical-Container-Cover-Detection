@@ -3,14 +3,14 @@
 > This project is my internship project made for <b>EGEROBOT - isgsis</b>
 
 <p>Result Project</p>
-<img src="static images/result.png" height="480">
+// <img src="static images/result.png" height="480">
 
 <details>
 <summary> Project Chart Diagram </summary>
    <br />
    <p> I used this Chart Diagram for development process </p>
 
-// <img src="https://user-images.githubusercontent.com/59209205/204371290-11db1d23-6452-429e-a4cd-4704fb4eb624.png">
+ <img src="https://user-images.githubusercontent.com/59209205/204371290-11db1d23-6452-429e-a4cd-4704fb4eb624.png">
 </details>
 
 # Dataset process
